@@ -20,7 +20,7 @@
 //        public int CompareTo(object obj) // obj --> rohit details
 //        {
 
-//            // type casting
+//            type casting
 //            Player p1 = (Player)obj;  // p1 --> rohit
 //            if (this.runs > p1.runs)  // this  --> refer to current object (Virat)
 //            {
